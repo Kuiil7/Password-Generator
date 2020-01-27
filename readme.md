@@ -2,4 +2,4 @@ This project contains an application that generates a password based on user cri
 
 deployed application repo: https://darh0ky.github.io/Password-Generator/
 
-![password generator demo](pwdGen.png)
+![password generator demo](Pwd.Gen.PNG)
