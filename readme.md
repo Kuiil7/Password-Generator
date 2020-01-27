@@ -1,5 +1,6 @@
-This project contains an application that generates a user-selected passwordf and another generator based on character length only. However, both share same criteria - upper and lower case letters and numbers between 8 to 128 characters. This project was completed using HTML, CSS, and JavaScript.
+This project contains an application that generates a password based on user criteria - upper and lower case letters and numbers between 8 to 128 characters. This project was completed using HTML, CSS, Bootstrap, and JavaScript.
+
 ![password generator demo](.pwdGen.png)
 
-repo: darh0ky.github.io
-deployed application repo: darh0ky.github.io/homework3
+repo: https://github.com/darh0ky/Password-Generator
+deployed application repo: https://darh0ky.github.io/Password-Generator/
