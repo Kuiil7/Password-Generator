@@ -1,6 +1,6 @@
 # Password Generator
 
-![password generator demo](.pwdGen.png)
+![APP DEMOP](pwd_gen.png)
 
 This project contains an application that generates a password based on user criteria of upper and lower case letters and numbers between 8 to 128 characters.
 
