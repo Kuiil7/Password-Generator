@@ -1,14 +1,14 @@
 # Password Generator
 
-![APP DEMOP](pwd_gen.png)
+![APP DEMO](pwd_gen2.png)
 
 This project contains an application that generates a password based on user criteria of upper and lower case letters and numbers between 8 to 128 characters.
 
 ## BUILT WITH
 
 * HTML
-* CSS,
+* CSS
 * Bootstrap
-* JavaScript.
+* JavaScript
 
  APP DEMO: https://kuiil7.github.io/Password-Generator/
