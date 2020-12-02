@@ -42,7 +42,7 @@ form {
    
 }
 
-:placeholder-shown{
+input:placeholder-shown{
     text-align: center;
     
 }
